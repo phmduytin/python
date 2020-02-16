@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4469210d-379b-4880-a2a3-019c7ce96df9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Statistic/bieudo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Statistic/bieudo_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested lists/creating.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sigmoid.py" beforeDir="false" afterPath="$PROJECT_DIR$/sigmoid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Median.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Median.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/bieudo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/bieudo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/find_corr_temprature_Ice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/find_corr_temprature_Ice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/find_corr_x_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/find_corr_x_y.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/find_similitary_of_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/find_similitary_of_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/images/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/images/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/images/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/images/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/images/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/images/img3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistic/images/img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Statistic/images/img4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/init_test.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,30 +33,27 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Statistic" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Study\PythonAI\AssgignMath\Statistic" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Study\PythonAI\AssgignMath\Statistic" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.bieudo">
-    <configuration name="Mean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.creating">
+    <configuration name="List_Tow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AssgignMath" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mean.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_Tow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Median" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="creating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AssgignMath" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nested lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Median.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nested lists/creating.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,49 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AssgignMath" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Modes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AssgignMath" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bieudo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_similitary_of_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AssgignMath" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +107,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistic/bieudo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Statistic/find_similitary_of_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AssgignMath" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/init_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processing_and_printing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AssgignMath" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nested lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nested lists/processing_and_printing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,13 +160,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bieudo" />
-        <item itemvalue="Python.Modes" />
-        <item itemvalue="Python.Mode" />
-        <item itemvalue="Python.Median" />
-        <item itemvalue="Python.Mean" />
+        <item itemvalue="Python.creating" />
+        <item itemvalue="Python.processing_and_printing" />
+        <item itemvalue="Python.List_Tow" />
+        <item itemvalue="Python.find_similitary_of_image" />
+        <item itemvalue="Python.init_test (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -192,5 +205,51 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1578493516450">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1578493516450" />
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom" timestamp="1581858142868">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578235064475" />
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581858142868" />
+    <state width="1345" height="181" key="GridCell.Tab.0.center" timestamp="1581858142868">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578235064475" />
+    <state width="1345" height="181" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581858142868" />
+    <state width="1345" height="181" key="GridCell.Tab.0.left" timestamp="1581858142868">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578235064475" />
+    <state width="1345" height="181" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581858142868" />
+    <state width="1345" height="181" key="GridCell.Tab.0.right" timestamp="1581858142868">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578235064475" />
+    <state width="1345" height="181" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581858142868" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1578230044091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578230044091" />
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2" timestamp="1578529224306">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="118" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1578529224306" />
+    <state x="379" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1581844111089">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578470676993" />
+    <state x="379" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581844111089" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578529582484">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1578529582484" />
   </component>
 </project>

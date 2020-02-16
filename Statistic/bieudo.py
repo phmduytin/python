@@ -9,15 +9,15 @@ phut = [27, 22, 26, 26, 29, 25]
 index = np.arange(6)
 width = 0.3
 
-plt.bar(index, So_giay, width = 0.3, color = 'green', label='giay')
-plt.bar(index + width, phut, width = 0.3, color = 'red', label ='phut')
+plt.bar(index, So_giay, width=0.3, color='green', label='giay')
+plt.bar(index + width, phut, width=0.3, color='red', label='phut')
 plt.xlabel("Số lần")
 plt.ylabel("Số giây")
 plt.title("Thống kê")
-plt.xticks(index + width/2, Lan_chay)
+plt.xticks(index + width / 2, Lan_chay)
 
-plt.legend(loc = 'best')
+plt.legend(loc='best')
 
-#print(plt)
+# print(plt)
 
 plt.show()
